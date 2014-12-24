@@ -52,5 +52,23 @@
 
     	<key>DEVELOPER</key>
     	<string>Developer</string>
+
+    	<key>CUSTOMIZATION</key>
+    	<string>Customization</string>
+
+    	<key>CUSTOMIZATION_DETAIL</key>
+    	<string>Enter the name of the city how it's written (including spaces and special characters). No need to capitalize or abbreviate. \n\nYou can even include your country as well for more accurate weather data! After the name of the city, add a comma, then a space, and then the name of the country (EX: Sydney, Australia). </string>
+
+    	<key>UI_OPTIONS</key>
+    	<string>UI Options</string>
+
+    	<key>LOCALIZATION</key>
+    	<string>Localization</string>
+
+    	<key>TWEAK_OPTIONS</key>
+    	<string>Tweak Options</string>
+
+    	<key>TWEAK_OPTION_DETAIL</key>
+    	<string>Manual Control disables the reset timer on Reachability, keeping the view open indefinitely until you close it manually. \n\nAdjust Reachability Size allows you to drag and resize the Reachability view to view more data.</string>
 	</dict>
 </plist>

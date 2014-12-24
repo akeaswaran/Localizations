@@ -3,101 +3,101 @@
 <plist version="1.0">
 	<dict>
     	<key>THREE_DAY_FORECAST</key>
-    	<string>3-Day Forecast</string>
+    	<string>3-Tage Vorhersage</string>
 
     	<key>FIVE_DAY_FORECAST</key>
-    	<string>5-Day Forecast</string>
+    	<string>5-Tage Vorhersage</string>
 
     	<key>THREE_DAY</key>
-    	<string>3 Day</string>
+    	<string>3 Tage</string>
 
     	<key>FIVE_DAY</key>
-    	<string>5 Day</string>
+    	<string>5 Tage</string>
 
     	<key>ENABLED</key>
-    	<string>Enabled</string>
+    	<string>Aktiv</string>
 
     	<key>MANUAL_CONTROL</key>
-    	<string>Manual Reachability Control</string>
+    	<string>Manueller Einhandmodus</string>
 
     	<key>CITY</key>
-    	<string>City</string>
+    	<string>Stadt</string>
 
     	<key>YOUR_CITY</key>
-    	<string>your city</string>
+    	<string>Deine Stadt</string>
 
     	<key>CUSTOM_TITLE_COLOR</key>
-    	<string>Custom Title Color</string>
+    	<string>Eigene Titelfarbe</string>
 
     	<key>CUSTOM_DETAIL_COLOR</key>
-    	<string>Custom Detail Color</string>
+    	<string>Eigene Detailfarbe</string>
 
     	<key>HEX_CODE</key>
-    	<string>hex Code</string>
+    	<string>HEX Code</string>
 
     	<key>ENABLE_CLOCK_PAGE</key>
-    	<string>Enable Clock Page</string>
+    	<string>Uhrzeit aktivieren</string>
 
     	<key>ENABLE_DETAIL_PAGE</key>
-    	<string>Enable Detailed Weather Page</string>
+    	<string>Wetterdetails aktivieren</string>
 
     	<key>ENABLE_FORECAST_PAGE</key>
-    	<string>Enable Forecast Page</string>
+    	<string>Vorhersage aktivieren</string>
 
     	<key>FORECAST_TYPE</key>
-    	<string>Forecast Type</string>
+    	<string>Art der Vorhersage</string>
 
     	<key>USE_CELSIUS</key>
-    	<string>Use Celsius</string>
+    	<string>Celsius verwenden</string>
 
     	<key>LANGUAGE</key>
-    	<string>Language</string>
+    	<string>Sprache</string>
 
     	<key>THIRD_PARTY</key>
-    	<string>Third-party resources used in ReachWeather:</string>
+    	<string>Verwendete Inhalte von Dritten:</string>
 
     	<key>DEVELOPER</key>
-    	<string>Developer</string>
+    	<string>Entwickler</string>
 
     	<key>DEVELOPER_DETAIL</key>
-    	<string>This tweak is open source. You can check out this and other projects on my GitHub.</string>
+    	<string>Dieser Tweak ist Open-Source. Wirf einen Blick auf dieses und andere meiner Projekte auf GitHub.</string>
 
     	<key>CUSTOMIZATION</key>
-    	<string>Customization</string>
+    	<string>Anpassung</string>
 
     	<key>CUSTOMIZATION_DETAIL</key>
-    	<string>Enter the name of the city how it's written (including spaces and special characters). No need to capitalize or abbreviate. 
+    	<string>Trage den Namen deiner Stadt mit Leer- und Sonderzeichen ein. Groß- und Kleinschreibung sind egal, Abkürzungen solltest du vermeiden. 
 
-You can even include your country as well for more accurate weather data! After the name of the city, add a comma, then a space, and then the name of the country (EX: Sydney, Australia).</string>
+Um genauere Daten zu erhalten, kannst du auch das zugehörige Land eintragen. Schreibe dazu nach dem Stadtnamen ein Komma, dann ein Leerzeichen, und anschließend das entsprechende Land (bspw. Berlin, Deutschland).</string>
 
     	<key>UI_OPTIONS</key>
-    	<string>UI Options</string>
+    	<string>UI Optionen</string>
 
     	<key>LOCALIZATION</key>
-    	<string>Localization</string>
+    	<string>Lokalisierung</string>
 
     	<key>TWEAK_OPTIONS</key>
-    	<string>Tweak Options</string>
+    	<string>Allgemeine Optionen</string>
 
     	<key>TWEAK_OPTIONS_DETAIL</key>
-    	<string>Manual Control disables the reset timer on Reachability, keeping the view open indefinitely until you close it manually.</string>
+    	<string>Manueller Einhandmodus deaktiviert das automatische Zurücksetzen der Ansicht nach einigen Sekunden, sodass ReachWeather so lange offen bleibt bis du es manuell schließt.</string>
 
     	<key>WEATHER_RETREIVAL_ERROR</key>
-    	<string>Error: unable to retreive current weather conditions.</string>
+    	<string>Fehler: Aktuelle Wetterdaten konnten nicht bezogen werden.</string>
 
     	<key>HIGH</key>
-    	<string>High</string>
+    	<string>Höchste</string>
 
     	<key>LOW</key>
-    	<string>Low</string>
+    	<string>Tiefste</string>
 
     	<key>HUMIDITY</key>
-    	<string>Humidity</string>
+    	<string>Luftfeuchtigkeit</string>
 
     	<key>PRESSURE</key>
-    	<string>Pressure</string>
+    	<string>Luftdruck</string>
 
         <key>ACTIVATION_METHODS</key>
-        <string>Activation Methods</string>
+        <string>Aktivierungsmethode</string>
 	</dict>
 </plist>

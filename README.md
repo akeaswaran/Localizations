@@ -8,7 +8,7 @@ List of languages to translate for ReachWeather:
 * Italian
 * Spanish
 * Ukrainian
-* German
+* ~~German~~ (Thanks @PodcastFips!)
 * Portuguese
 * Romanian
 * Polish

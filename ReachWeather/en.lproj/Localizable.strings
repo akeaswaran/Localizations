@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+    	<key>THREE_DAY_FORECAST</key>
+    	<string>3-Day Forecast</string>
+
+    	<key>FIVE_DAY_FORECAST</key>
+    	<string>5-Day Forecast</string>
+	</dict>
+</plist>

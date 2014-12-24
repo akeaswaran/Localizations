@@ -82,5 +82,20 @@
 
     	<key>TWEAK_OPTIONS_DETAIL</key>
     	<string>Manual Control disables the reset timer on Reachability, keeping the view open indefinitely until you close it manually.</string>
+
+    	<key>WEATHER_RETREIVAL_ERROR</key>
+    	<string>Error: unable to retreive current weather conditions.</string>
+
+    	<key>HIGH</key>
+    	<string>High</string>
+
+    	<key>LOW</key>
+    	<string>Low</string>
+
+    	<key>HUMIDITY</key>
+    	<string>Humidity</string>
+
+    	<key>PRESSURE</key>
+    	<string>Pressure</string>
 	</dict>
 </plist>

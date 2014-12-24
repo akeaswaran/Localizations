@@ -8,6 +8,12 @@
     	<key>FIVE_DAY_FORECAST</key>
     	<string>5-Day Forecast</string>
 
+    	<key>THREE_DAY</key>
+    	<string>3 Day</string>
+
+    	<key>FIVE_DAY</key>
+    	<string>5 Day</string>
+
     	<key>ENABLED</key>
     	<string>Enabled</string>
 
@@ -19,6 +25,9 @@
 
     	<key>CITY</key>
     	<string>City</string>
+
+    	<key>YOUR_CITY</key>
+    	<string>your city</string>
 
     	<key>CUSTOM_TITLE_COLOR</key>
     	<string>Custom Title Color</string>
@@ -53,6 +62,9 @@
     	<key>DEVELOPER</key>
     	<string>Developer</string>
 
+    	<key>DEVELOPER_DETAIL</key>
+    	<string>This tweak is open source. You can check out this and other projects on my GitHub.</string>
+
     	<key>CUSTOMIZATION</key>
     	<string>Customization</string>
 
@@ -68,7 +80,7 @@
     	<key>TWEAK_OPTIONS</key>
     	<string>Tweak Options</string>
 
-    	<key>TWEAK_OPTION_DETAIL</key>
-    	<string>Manual Control disables the reset timer on Reachability, keeping the view open indefinitely until you close it manually. \n\nAdjust Reachability Size allows you to drag and resize the Reachability view to view more data.</string>
+    	<key>TWEAK_OPTIONS_DETAIL</key>
+    	<string>Manual Control disables the reset timer on Reachability, keeping the view open indefinitely until you close it manually.</string>
 	</dict>
 </plist>

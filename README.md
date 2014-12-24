@@ -3,7 +3,7 @@ Localizations
 
 List of languages to translate for ReachWeather: 
 
-* English
+~~* English~~
 * Russian 
 * Italian
 * Spanish

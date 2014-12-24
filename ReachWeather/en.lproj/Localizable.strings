@@ -94,5 +94,8 @@
 
     	<key>PRESSURE</key>
     	<string>Pressure</string>
+
+        <key>ACTIVATION_METHODS</key>
+        <string>Activation Methods</string>
 	</dict>
 </plist>

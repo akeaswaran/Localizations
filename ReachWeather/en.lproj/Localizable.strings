@@ -68,7 +68,7 @@
     	<key>CUSTOMIZATION_DETAIL</key>
     	<string>Enter the name of the city how it's written (including spaces and special characters). No need to capitalize or abbreviate. 
 
-        You can even include your country as well for more accurate weather data! After the name of the city, add a comma, then a space, and then the name of the country (EX: Sydney, Australia). </string>
+You can even include your country as well for more accurate weather data! After the name of the city, add a comma, then a space, and then the name of the country (EX: Sydney, Australia).</string>
 
     	<key>UI_OPTIONS</key>
     	<string>UI Options</string>

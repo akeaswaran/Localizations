@@ -7,5 +7,50 @@
 
     	<key>FIVE_DAY_FORECAST</key>
     	<string>5-Day Forecast</string>
+
+    	<key>ENABLED</key>
+    	<string>Enabled</string>
+
+    	<key>MANUAL_CONTROL</key>
+    	<string>Manual Reachability Control</string>
+
+    	<key>CITY</key>
+    	<string>City</string>
+
+    	<key>CITY</key>
+    	<string>City</string>
+
+    	<key>CUSTOM_TITLE_COLOR</key>
+    	<string>Custom Title Color</string>
+
+    	<key>CUSTOM_DETAIL_COLOR</key>
+    	<string>Custom Detail Color</string>
+
+    	<key>HEX_CODE</key>
+    	<string>hex Code</string>
+
+    	<key>ENABLE_CLOCK_PAGE</key>
+    	<string>Enable Clock Page</string>
+
+    	<key>ENABLE_DETAIL_PAGE</key>
+    	<string>Enable Detailed Weather Page</string>
+
+    	<key>ENABLE_FORECAST_PAGE</key>
+    	<string>Enable Forecast Page</string>
+
+    	<key>FORECAST_TYPE</key>
+    	<string>Forecast Type</string>
+
+    	<key>USE_CELSIUS</key>
+    	<string>Use Celsius</string>
+
+    	<key>LANGUAGE</key>
+    	<string>Language</string>
+
+    	<key>THIRD_PARTY</key>
+    	<string>Third-party resources used in ReachWeather:</string>
+
+    	<key>DEVELOPER</key>
+    	<string>Developer</string>
 	</dict>
 </plist>
